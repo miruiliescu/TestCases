@@ -1,4 +1,4 @@
-# Test Case Sample
+# Test Case Samples using Qase
 
 Below are some Test Case samples that I wrote while working on previous projects.
 
